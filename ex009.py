@@ -1,0 +1,12 @@
+#faça um programa que leia um número intero e moste sua tabuada
+v = int(input('Digite um valor'))
+print(v,'x 1 =',(v*1))
+print(v,'x 2 =',(v*2))
+print(v,'x 3 =',(v*3))
+print(v,'x 4 =',(v*4))
+print(v,'x 5 =',(v*5))
+print(v,'x 6 =',(v*6))
+print(v,'x 7 =',(v*7))
+print(v,'x 8 =',(v*8))
+print(v,'x 9 =',(v*9))
+print(v,'x 10 =',(v*10))
